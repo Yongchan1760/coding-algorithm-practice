@@ -1,7 +1,11 @@
 package algorithm_java_LV1;
 
 import java.util.HashMap;
-
+/*
+ *  달리기 경주
+ *  https://school.programmers.co.kr/learn/courses/30/lessons/178871
+ * 
+ */
 public class Pra_0706 {
     public static String[] main(String[] players, String[] callings){
         int n = players.length;
